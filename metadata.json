@@ -1,0 +1,5 @@
+{
+  "name": "Sweet Milk Tea",
+  "description": "An application that generates recipes based on a list of available ingredients, using the Gemini API to create the recipe details and a corresponding image of the dish.",
+  "requestFramePermissions": []
+}
